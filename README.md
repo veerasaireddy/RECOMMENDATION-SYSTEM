@@ -66,3 +66,6 @@ The notebook is well-commented and structured in a modular way so it can be exte
 Task 4 was a valuable exercise in building practical recommendation systems using collaborative filtering. It introduced key concepts such as user-item interactions, similarity computation, and predictive recommendation generation. This task not only demonstrated how platforms like Netflix or Amazon personalize content but also laid the groundwork for implementing advanced recommendation techniques. With minimal data and logic, the system produced interpretable and relevant recommendations — a foundational component in real-world machine learning systems.
 
 
+## OUTPUT  :
+
+<img width="631" alt="Image" src="https://github.com/user-attachments/assets/7a372c53-79ce-4e2a-a6db-4f7c0938b56f" />
